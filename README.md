@@ -1,2 +1,21 @@
-# computational-science-daily
-Daily curated updates on computational chemistry, computational physics, computational materials, and emerging solid-state electrolytes.
+# Computational Science Daily
+
+每日整理计算化学、计算物理、计算材料领域的新技术与新模型，以及新型固态电解质资讯。
+
+## 内容
+
+- 计算化学：电子结构、分子模拟、反应预测、机器学习势等
+- 计算物理：数值方法、多尺度模拟、科学机器学习等
+- 计算材料：材料发现、性质预测、生成模型、自动化工作流等
+- 固态电解质：新材料体系、离子输运机理、筛选模型、数据库与实验进展
+
+## 更新方式
+
+任务每天北京时间 12:00 自动检索并整理公开、可核验的信息：
+
+- 当期完整报告：[`LATEST.md`](LATEST.md)
+- 历史报告：[`reports/`](reports/)
+
+每条资讯尽量给出原始来源、发布日期、技术要点、意义与局限。内容以中文撰写，专业术语保留英文。
+
+> 本仓库内容用于科研信息跟踪，不替代对原始论文、代码和数据的核验。
